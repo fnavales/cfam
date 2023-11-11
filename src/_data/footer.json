@@ -4,20 +4,16 @@
   "contactsHeading": "Contact Info",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "link":"https://maps.app.goo.gl/cZhxT2PweGzPJZAo6",
+      "text":"Edif. Academia Universo - C/ Corredera, 45, 18800, BAZA (Granada)"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
+      "link":"tel:672458610",
+      "text":"672 45 86 10"
     },
     {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
-    },
-    {
-      "link":"mailto:",
-      "text":"info@roxo.co"
+      "link":"mailto:seguridad-escoltacfam@hotmail.com",
+      "text":"seguridad-escoltacfam@hotmail.com"
     }
   ],
 
@@ -25,35 +21,31 @@
   "siteMap":[
     {
       "link":"about",
-      "text":"About Company"
+      "text":"Sobre Nosotros"
     },
     {
       "link":"portfolio",
-      "text":"Projects"
+      "text":"Projectos"
     },
     {
       "link":"privacy-policy",
-      "text":"Privacy Policy"
+      "text":"Politica de privacidad"
     },
     {
       "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "text":"Terminos y condiciones"
     }
   ],
 
-  "socialHeading":"Social Media",
+  "socialHeading":"Redes Sociales",
   "socialMedia":[
     {
       "link":"#",
-      "text":"Medium"
+      "text":"WhatsApp"
     },
     {
       "link":"#",
-      "text":"Behance"
-    },
-    {
-      "link":"#",
-      "text":"Dribbble"
+      "text":"Facebook"
     },
     {
       "link":"#",
@@ -61,9 +53,9 @@
     }
   ],
   
-  "brandHeading":"We help brands:",
-  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
+  "brandHeading":"Te ayudamos en",
+  "brandMotto":["Conseguir una profesión de futuro","Conseguir tu HABILITACIÓN PROFESIONAL gracias a nuestro método","Entrar en nuestra bolsa de empleo"],
 
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"Quiero verlo desde el principio"
 }

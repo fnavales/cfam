@@ -1,11 +1,11 @@
 {
-  "heading":"LET’S WORK TOGETHER",
+  "heading":"DIME EN QUE QUIERES\nQUE TE AYUDE",
   "submitBtn":{
-    "btnText":"Submit Query",
+    "btnText":"EMAIL",
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Not Convinced",
+    "btnText":"¿NO ESTAS CONVENCIDO?",
     "btnLink":"portfolio"
   }
 }

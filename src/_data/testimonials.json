@@ -1,42 +1,30 @@
 {
-  "title": "OPINION FROM REAL PEOPLE",
+  "title": "LO QUE DICEN DE MI",
   "des": "What clients says about our services.",
   "opinion":[
     {
-      "name": "Simonns Hodge",
-      "dig": "CEO, Credito",
+      "name": "Alejandro Sagnier",
+      "dig": "",
       "img": "/assets/images/testimonial/user-thumb-one.jpg",
-      "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
+      "comment": "Por mi experiencia como alumno del Centro de Formación Antonio Maestra, CFAM, puedo decir que me siento afortunado de ser discípulo del mejor profesional, el propio Antonio Maestra.\n\nNuestro instructor es un apasionado de su trabajo y así nos lo ha transmitido a cada un@ de nosotr@s, hasta el punto de estar siempre y en todo momento disponible para atender cualquier consulta, duda o inquietud, sin horario ni calendario."
     },
     {
-      "name": "Rekon Montino",
-      "dig": "CDO, Bulmuci",
+      "name": "José Mateo Montes",
+      "dig": "",
       "img": "/assets/images/testimonial/user-thumb-two.jpg",
-      "comment": "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element."
+      "comment": "Me he sacado el curso de vigilante de seguridad con CFAM y la verdad que es increible.\nEl profesorado ha sido excelente, dispuesto a ayudarte en cualquier cosa que necesites y muy implicado con los alumnos.\nTienen un temario completísimo y actualizado, las clases son amenas y se aprende mucho, también te entrenan para las pruebas físicas y se\nrealizan practicas de tiro.\nHay un ambiente genial y en general la experiencia ha sido un placer."
     },
     {
-      "name": "Ryan Hillary",
-      "dig": "MD, Udilamo",
+      "name": "Antonio Carmona",
+      "dig": "",
       "img": "/assets/images/testimonial/user-thumb-three.jpg",
-      "comment": "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush."
+      "comment": "Sr Antonio Maestra, para mi como profesor y persona, estoy muy orgulloso de haber tenido la oportunidad de aprender con toda su sabiduria, hacer especial incapie lo aprendido con cada tema de la formación.\n\nDesde el minuto cero muy agusto y una amistad expetacular, es una persona muy cercana.\n\nSin dudarlo os aconsejo que os apuntéis a la academia CFAM"
     },
     {
-      "name": "Dockrel Kahn",
-      "dig": "PM, Walmet",
+      "name": "David Martín",
+      "dig": "",
       "img": "/assets/images/testimonial/user-thumb-four.jpg",
-      "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
-    },
-    {
-      "name": "Orino Monteno",
-      "dig": "CEO, Axion",
-      "img": "/assets/images/testimonial/user-thumb-five.jpg",
-      "comment": "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element."
-    },
-    {
-      "name": "Welfo Roy",
-      "dig": "PDO, Komoyo",
-      "img": "/assets/images/testimonial/user-thumb-six.jpg",
-      "comment": "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush."
+      "comment": "Si buscas un verdadero centro de formación lo has encontrado, las clases son muy amenas, el ambiente es genial, un trato personalizado por la disposición permanente de resolver dudas que ofrece el profesorado que se esfuerza para que nos quede claro hasta el último acento y conseguir los mejores objetivos, la formación real, la defensa personal que en todas las academias se saltan, tienes días y días para que no salgas a la calle indefenso, realmente una formación completa y eficaz. Recomiendo 100%."
     }
   ]
 }
