@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="es">
   <head>
     <meta charset="utf-8" />
-    <title>Roxo | Creative Design Agency</title>
+    <title>CFAM | Centro de Formación</title>
     <meta name="generator" content="Eleventy">
     <!--Meta For No Index-->
     <meta name="robots" content="noindex, Nofollow, Noimageindex">
@@ -61,15 +61,17 @@
               {% endif %} 
             </li>
             {% endfor %}
-            <li class="nav-item">
-              <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="/{{nav.navBtnLink}}">
-                <span class="btn-area">
-                  <span data-text="{{nav.navBtnText}}">
-                    {{nav.navBtnText}}
-                  </span>
-                </span>
-              </a>
-            </li>
+            {% if nav.navBtnLink != "" %}
+                <li class="nav-item">
+                  <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="/{{nav.navBtnLink}}">
+                    <span class="btn-area">
+                      <span data-text="{{nav.navBtnText}}">
+                        {{nav.navBtnText}}
+                      </span>
+                    </span>
+                  </a>
+                </li>
+            {% endif %}
           </ul>
         </div>
       </div>
@@ -177,7 +179,7 @@
           </div>
           <div class="col-12">
             <div class="site-footer-copyright text-center my-3">
-              <p>© Copyright 2022 - All Rights Reserved by <a href="https://staticmania.com/" target="_blank">StaticMania</a> </p>
+              <p> Made with ❤️ by <a href="https://fnavales.es/" target="_blank">🥷🏽</a> </p>
             </div>
           </div>
         </div>

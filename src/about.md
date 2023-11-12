@@ -1,5 +1,5 @@
 ---
 layout: layouts/about.njk
-des: "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+des: "Tu aliado en la excelencia educativa en seguridad privada. Avanza en tu formación con nosotros, marcando el camino hacia un futuro profesional seguro y exitoso."
 ---
-# We are roxo design.<br>An award-winning creative studio in Florida.
+# Somos CFAM Centro de Formación<br>Seguridad Privada.

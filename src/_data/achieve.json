@@ -2,20 +2,12 @@
   "title": "Me Comprometo CONTIGO",
   "achievements":[
     {
-      "title": "Mi objetivo es",
-      "counter": "100% de aprobados"
+      "title": "Cursos",
+      "counter": "X"
     },
     {
       "title": "Plataforma de estudio",
       "counter": "24/7"
-    },
-    {
-      "title": "Cups of coffee",
-      "counter": "351"
-    },
-    {
-      "title": "Telephone Talks",
-      "counter": "740"
     }
   ]
 }

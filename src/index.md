@@ -1,21 +1,21 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "SOY ANTONIO MAESTRA MARTÍNEZ"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "Te ayudo a formarte en Seguridad Privada"
+    secondPara: "para impulsar tu carrera profesional. 🛡️📚"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "Nuestros Cursos"
     link: "#project"
   connectBtn: 
-    text: "Connect with us"
+    text: "Contáctanos"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "Explora nuestros cursos"
+  title: "Descubre un camino de desarrollo profesional en el ámbito de la seguridad con nuestros cursos especializados."
   seeAllbtn:
     link: "portfolio"
-    text: "MORE WORKS"
+    text: "VER MÁS"
 ---
