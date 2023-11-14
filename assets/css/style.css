@@ -237,9 +237,10 @@ textarea.form-control {
 .site-navigation .nav-item .nav-link:hover {
   color: #FFA77F;
 }
+/*
 .site-navigation .nav-item:last-child {
   margin-left: 15px;
-}
+}*/
 .site-navigation .navbar-toggler {
   outline: 0;
   padding: 0;
@@ -950,13 +951,13 @@ textarea.form-control {
 }
 .site-team-member-image {
   position: absolute;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   overflow: hidden;
-  left: 30px;
+  left: 10px;
   top: 0;
-  transform: translateY(-50%);
+  transform: translateY(-70%);
 }
 @media (max-width: 767px) {
   .site-team-member-image {
@@ -965,13 +966,13 @@ textarea.form-control {
   }
 }
 .site-team-member-content h3 {
-  font-size: 20px;
+  font-size: 32px;
   color: #FFA77F;
   margin-bottom: 10px;
   font-weight: 500;
 }
 .site-team-member-content p {
-  font-size: 18px;
+  font-size: 24px;
   color: #00113E;
   margin-bottom: 20px;
   font-weight: 300;
@@ -979,6 +980,7 @@ textarea.form-control {
 .site-team-member-social {
   margin: 0;
   padding: 0;
+  font-size: 24px;
 }
 .site-team-member-social li {
   display: inline-block;

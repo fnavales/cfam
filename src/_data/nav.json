@@ -1,6 +1,10 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["home","about","portfolio"],
+  "navLinks":[
+    {"route": "home", "name": "inicio"},
+    {"route": "about", "name": "sobre mí"},
+    {"route": "portfolio", "name": "cursos"}
+  ],
   "navBtnLink":"",
   "navBtnText":""
 }

@@ -2,12 +2,16 @@
   "title": "Me Comprometo CONTIGO",
   "achievements":[
     {
-      "title": "Cursos",
-      "counter": "X"
+      "title": "Cursos Homologados",
+      "counter": "30+"
     },
     {
-      "title": "Plataforma de estudio",
+      "title": "Plataforma de estudio propia",
       "counter": "24/7"
+    },
+    {
+      "title": "Para aprobad@s",
+      "counter": "Bolsa de Empleo"
     }
   ]
 }

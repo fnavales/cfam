@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <div class="site-hero-content text-center">
-              <h6>{{hero.subTitle}}</h6>
+              <h4>{{hero.subTitle}}</h6>
               <h1>
                 {{hero.title.firstPara}}
                 <br>
@@ -51,10 +51,10 @@
             </div>
           </div>
           {% for achievement in achieve.achievements %}
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="site-counter-item">
+              <h3 class="site-counter-item-number">{{achievement.counter}}</h3>
               <span class="site-counter-item-title">{{achievement.title}}</span>
-              <h3 class="site-counter-item-number">{{achievement.counter}}+</h3>
             </div>
           </div> 
           {% endfor %}
@@ -123,6 +123,25 @@
             </div>
           </div> 
           {% endfor %}
+        </div>
+      </div>
+    </section>
+
+    <section class="site-client">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <h2>{{clients.title}}</h2>
+            </div>
+            <div class="site-client-wrapper">
+              {% for trustedClient in clients.trustedClients %}
+              <div class="site-client-item">
+                <img src="{{trustedClient}}" alt="client-logo">
+              </div>
+              {% endfor %}
+            </div>
+          </div>
         </div>
       </div>
     </section>

@@ -54,10 +54,10 @@
           <ul class="navbar-nav ml-auto main-nav">
             {% for navLink in nav.navLinks %}
             <li class="nav-item">
-              {% if navLink == "home" %}
-                <a class="nav-link" href="/">{{navLink | capitalize}}</a>
+              {% if navLink.route == "home" %}
+                <a class="nav-link" href="/">{{navLink.name | capitalize}}</a>
               {% else %}
-                <a class="nav-link" href="/{{navLink}}">{{navLink | capitalize}}</a> 
+                <a class="nav-link" href="/{{navLink.route}}">{{navLink.name | capitalize}}</a>
               {% endif %} 
             </li>
             {% endfor %}
