@@ -43,7 +43,7 @@
                 <nav>
                   <ul class="pagination">
                     {% if pagination.href.previous %}
-                    <li class="page-item"><a class="page-link" href="{{pagination.href.previous}}">Previous</a></li>
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.previous}}">Anterior</a></li>
                     {% endif %}
                     {% for pageEntry in pagination.hrefs %}
                     <li {% if page.url == pageEntry %}
@@ -53,7 +53,7 @@
                         {% endif %}
                     {% endfor %}
                     {% if pagination.href.next %}
-                    <li class="page-item"><a class="page-link" href="{{pagination.href.next}}">Next</a></li>
+                    <li class="page-item"><a class="page-link" href="{{pagination.href.next}}">Siguiente</a></li>
                     {% endif %}
                   </ul>
                 </nav>

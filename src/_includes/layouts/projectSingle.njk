@@ -15,7 +15,9 @@
               </div>
               <div class="site-project-single-image">
                 <img src="{{featureImg1}}" alt="project image">
-                <img src="{{featureImg2}}" alt="project image">
+                {% if featureImg2 != "" %}
+                    <img src="{{featureImg2}}" alt="project image">
+                {% endif %}
               </div>
               {% if collections.portfolios %}
               {% set nextPost = collections.portfolios | getNextCollectionItem(page) %}
