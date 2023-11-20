@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
-title: "SERVICIO DE VIGILANCIA EN EVENTOS DEPORTIVOS Y ESPECTÁCULOS PÚBLICOS"
-img: "/assets/images/projects/project-thumb-15.png"
+title: "SERVICIO DE VIGILANCIA EN CENTROS DE INTERNAMIENTO Y DEPENDENCIAS DE SEGUIRIDAD"
+img: "/assets/images/projects/project-thumb-16.png"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-15.png"
+featureImg1: "/assets/images/projects/project-thumb-16.png"
 featureImg2: ""
 ---
 👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
@@ -12,7 +12,7 @@ Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para u
 
 ❗️INFORMACIÓN IMPORTANTE❗️
 
-✅ Nombre: Servicio de vigilancia en eventos deportivos y espectáculos públicos
+✅ Nombre: Servicio de vigilancia en centros de internamiento y dependencias de seguiridad
 
 ✅ Tipo: Curso específico
 

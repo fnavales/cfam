@@ -12,7 +12,7 @@ Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para u
 
 ❗️INFORMACIÓN IMPORTANTE❗️
 
-✅ Nombre: Vigilancia en aeropuertos
+✅ Nombre: Servicio con aparato de rayos-x
 
 ✅ Tipo: Curso específico
 

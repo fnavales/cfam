@@ -12,7 +12,7 @@ Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para u
 
 ❗️INFORMACIÓN IMPORTANTE❗️
 
-✅ Nombre: Vigilancia en aeropuertos
+✅ Nombre: Servicio de vigilancia en instalaciones nucleares y otras infraestructuras críticas
 
 ✅ Tipo: Curso específico
 
