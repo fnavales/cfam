@@ -40,21 +40,21 @@
   "socialHeading":"Redes Sociales",
   "socialMedia":[
     {
-      "link":"#",
+      "link":"https://wa.me/672458610",
       "text":"WhatsApp"
     },
     {
-      "link":"#",
+      "link":"https://m.facebook.com/p/CFAM-Centro-de-formaci%C3%B3n-100065294469140/",
       "text":"Facebook"
     },
     {
-      "link":"#",
+      "link":"https://www.instagram.com/cfam.es/",
       "text":"Instagram"
     }
   ],
   
   "brandHeading":"Te ayudamos en",
-  "brandMotto":["Conseguir una profesión de futuro","Conseguir tu HABILITACIÓN PROFESIONAL gracias a nuestro método","Entrar en nuestra bolsa de empleo"],
+  "brandMotto":["Conseguir una profesión de futuro.","Conseguir tu certificado laboral.","Entrar en nuestra bolsa de empleo."],
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"Quiero verlo desde el principio"

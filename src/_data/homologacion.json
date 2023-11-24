@@ -1,0 +1,15 @@
+{
+  "title": "",
+  "subTitle": "Cursos Homologados por el Ministerios del Interior y la Secretaría de Estado y Seguridad",
+  "entidades":[
+    {
+      "img": "assets/images/homologacion/Cuerpo-Nacional-de-Policia.png"
+    },
+    {
+      "img": "assets/images/homologacion/Ministerio-del-Interior-1.png"
+    },
+    {
+      "img": "assets/images/homologacion/Guardia-civil.png"
+    }
+  ]
+}
