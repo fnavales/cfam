@@ -24,7 +24,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="/{{hero.connectBtn.link}}" class="btn btn-primary">
+                  <a href="{{hero.connectBtn.link}}" target="_blank" class="btn btn-primary">
                     <span class="btn-area">
                       <span data-text="{{hero.connectBtn.text}}">
                         {{hero.connectBtn.text}}
@@ -77,11 +77,13 @@
               <div class="site-project-item-thumb">
                 <img src="{{portfolio.data.img}}" alt="project-thumb">
               </div>
-              <div class="site-project-item-content">
-                <span>{{portfolio.data.subTitle}}</span>
-                <h3>{{portfolio.data.title}}</h3>
-                <a href="{{portfolio.data.page.url}}" class="read-more">{{portfolio.data.linkText}}</a>
-              </div>
+              <a href="{{portfolio.data.page.url}}">
+                <div class="site-project-item-content">
+                  <span>{{portfolio.data.subTitle}}</span>
+                  <h3>{{portfolio.data.title}}</h3>
+                  <a href="{{portfolio.data.page.url}}" class="read-more">{{portfolio.data.linkText}}</a>
+                </div>
+              </a>
             </div>
           </div>
           {% endfor %}

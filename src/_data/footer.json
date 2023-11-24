@@ -1,7 +1,7 @@
 {
   "footerLogo": "/assets/images/logo-footer.png",
 
-  "contactsHeading": "Contact Info",
+  "contactsHeading": "Contacto",
   "contactsInfo":[
     {
       "link":"https://maps.app.goo.gl/cZhxT2PweGzPJZAo6",
@@ -53,7 +53,7 @@
     }
   ],
   
-  "brandHeading":"Te ayudamos en",
+  "brandHeading":"Te ayudamos a",
   "brandMotto":["Conseguir una profesión de futuro.","Conseguir tu certificado laboral.","Entrar en nuestra bolsa de empleo."],
 
   "back2topIcon":"/assets/images/to-top.svg",

@@ -10,7 +10,7 @@ hero:
     link: "#project"
   connectBtn: 
     text: "Contáctanos"
-    link: "contact"
+    link: "https://wa.me/672458610"
 
 portfolio:
   subTitle: "Explora nuestros cursos"

@@ -30,11 +30,13 @@
                 <div class="site-project-item-thumb">
                   <img src="{{portfolio.data.img}}" alt="project-thumb">
                 </div>
-                <div class="site-project-item-content">
-                  <span>{{portfolio.data.subTitle}}</span>
-                  <h3>{{portfolio.data.title}}</h3>
-                  <a href="{{portfolio.url}}" class="read-more">{{portfolio.data.linkText}}</a>
-                </div>
+                <a href="{{portfolio.url}}">
+                  <div class="site-project-item-content">
+                    <span>{{portfolio.data.subTitle}}</span>
+                    <h3>{{portfolio.data.title}}</h3>
+                    <a href="{{portfolio.url}}" class="read-more">{{portfolio.data.linkText}}</a>
+                  </div>
+                </a>
               </div>
             </div>
             {% endfor %}

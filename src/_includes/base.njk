@@ -90,7 +90,7 @@
             <h1 class="site-cta-title">{{workTogether.heading}}</h1>
             <ul class="site-cta-buttons">
               <li>
-                <a href="/{{workTogether.submitBtn.btnLink}}" class="btn btn-secondary">
+                <a href="{{workTogether.submitBtn.btnLink}}" target="_blank" class="btn btn-secondary">
                   <span class="btn-area">
                     <span data-text="{{workTogether.submitBtn.btnText}}">
                       {{workTogether.submitBtn.btnText}}
@@ -114,6 +114,10 @@
     </section>
   {% endblock %}
 
+  <a href="https://api.whatsapp.com/send?phone=672458610" class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+  </a>
+
   {% block footer %}
     <footer class="site-footer">
       <div class="container">
@@ -130,7 +134,7 @@
               <h5 class="site-footer-widget-title">{{footer.contactsHeading}}</h5>
               <p class="site-footer-widget-description">
               {% for contactInfo in footer.contactsInfo %}
-                <a href="{{contactInfo.link}}">{{contactInfo.text}}</a>
+                <a href="{{contactInfo.link}}" target="_blank">{{contactInfo.text}}</a>
                 <br>
               {% endfor %}
               </p>
@@ -155,7 +159,7 @@
               <h5 class="site-footer-widget-title">{{footer.socialHeading}}</h5>
               <ul class="site-footer-widget-links">
                 {% for socialMedia in footer.socialMedia %}
-                <li><a href="{{socialMedia.link}}">{{socialMedia.text}}</a></li>
+                <li><a href="{{socialMedia.link}}" target="_blank">{{socialMedia.text}}</a></li>
                 {% endfor %}
               </ul>
             </div>
