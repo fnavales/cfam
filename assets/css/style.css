@@ -144,7 +144,7 @@ body {
   }
 }
 .section-title p {
-  font-size: 20px;
+  font-size: 26px;
   font-weight: 300;
 }
 
@@ -374,7 +374,7 @@ textarea.form-control {
   }
 }
 .site-counter-item-title {
-  font-size: 20px;
+  font-size: 26px;
   font-weight: 300;
 }
 .site-counter-item-number {
@@ -581,6 +581,7 @@ textarea.form-control {
 }
 .site-project-single-description p {
   margin-bottom: 30px;
+  font-size: 20px;
 }
 .site-project-single-action a {
   position: relative;
@@ -767,6 +768,7 @@ textarea.form-control {
 .site-testimonial-item-body {
   margin-bottom: 0;
   font-weight: 300;
+  font-size: 20px;
 }
 
 .site-cta {
