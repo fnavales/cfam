@@ -220,7 +220,7 @@ textarea.form-control {
   margin: 0;
 }
 .site-navigation .navbar-brand img {
-  max-width: 150px;
+  max-width: 192px;
 }
 @media (max-width: 991px) {
   .site-navigation .nav-item {
