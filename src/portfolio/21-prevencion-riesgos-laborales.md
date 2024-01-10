@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-21.png"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-21.png"
 featureImg2: ""
+order: 23
 ---
 Destaca entre el resto de currículum con este curso complementario: Prevención de Riesgos Laborales ⛑ 
 

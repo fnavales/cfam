@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-19.png"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-19.png"
 featureImg2: ""
+order: 19
 ---
 Destaca entre el resto de currículum con este curso complementario 🆘
 

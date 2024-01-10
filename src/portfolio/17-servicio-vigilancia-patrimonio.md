@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-17.png"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-17.png"
 featureImg2: ""
+order: 14
 ---
 👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 

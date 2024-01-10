@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-20.png"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-20.png"
 featureImg2: ""
+order: 18
 ---
 Destaca entre el resto de currículum con este curso de control de accesos 🚦
 

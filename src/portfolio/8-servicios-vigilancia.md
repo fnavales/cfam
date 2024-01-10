@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-8.png"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-8.png"
 featureImg2: ""
+order: 16
 ---
 Cada vez son más los lugares públicos o privados que requieren de seguridad 👮👮‍♂️ 
 

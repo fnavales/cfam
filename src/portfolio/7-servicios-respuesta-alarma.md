@@ -5,6 +5,7 @@ img: "/assets/images/projects/project-thumb-7.png"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-7.png"
 featureImg2: ""
+order: 10
 ---
 En una sociedad donde la seguridad es fundamental, nuestro curso de Servicio de Vigilancia ante alarmas se convierte fundamental en tu currículum.
 

@@ -6,6 +6,18 @@ module.exports = function (eleventyConfig) {
     return array.slice(0, limit);
   });
 
+  function sortByOrder(values) {
+    let vals = [...values];     // this *seems* to prevent collection mutation...
+    return vals.sort((a, b) => Math.sign(a.data.order - b.data.order));
+  }
+  eleventyConfig.addFilter("sortByOrder", sortByOrder);
+
+  eleventyConfig.addCollection('portfoliosOrdered', function(collectionApi) {
+    return collectionApi
+        .getFilteredByGlob("**/portfolio/**/*.md")
+        .sort((a, b) => Math.sign(a.data.order - b.data.order));
+  });
+
   return {
     passthroughFileCopy: true,
     markdownTemplateEngine: "njk",

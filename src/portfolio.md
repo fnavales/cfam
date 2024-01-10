@@ -1,7 +1,7 @@
 ---
 layout: layouts/portfolio.njk
 pagination:
-  data: collections.portfolios
+  data: collections.portfoliosOrdered
   size: 4
   alias: portfolios
 ---
