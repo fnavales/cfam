@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIOS DE TRANSPORTES DE SEGURIDAD"
-img: "/assets/images/projects/project-thumb-6.png"
+img: "/assets/images/projects/project-thumb-6.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-6.png"
+featureImg1: "/assets/images/projects/project-thumb-6.webp"
 featureImg2: ""
 order: 7
 ---

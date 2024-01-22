@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN CENTROS DE INTERNAMIENTO Y DEPENDENCIAS DE SEGUIRIDAD"
-img: "/assets/images/projects/project-thumb-16.png"
+img: "/assets/images/projects/project-thumb-16.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-16.png"
+featureImg1: "/assets/images/projects/project-thumb-16.webp"
 featureImg2: ""
 order: 13
 ---

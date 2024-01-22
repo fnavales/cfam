@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN URBANIZACIONES, POLÍGONOS, TRANSPORTES Y ESPACIOS PÚBLICOS"
-img: "/assets/images/projects/project-thumb-8.png"
+img: "/assets/images/projects/project-thumb-8.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-8.png"
+featureImg1: "/assets/images/projects/project-thumb-8.webp"
 featureImg2: ""
 order: 16
 ---
