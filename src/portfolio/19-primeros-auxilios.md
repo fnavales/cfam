@@ -1,9 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "PRIMEROS AUXILIOS, DESA, SEGURIDAD CONTRA INCENDIOS"
-img: "/assets/images/projects/project-thumb-19.png"
+img: "/assets/images/projects/project-thumb-19.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-19.png"
+featureImg1: "/assets/images/projects/project-thumb-19.webp"
 featureImg2: ""
 order: 19
 ---

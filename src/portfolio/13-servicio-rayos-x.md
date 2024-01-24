@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO CON APARATO DE RAYOS-X"
-img: "/assets/images/projects/project-thumb-13.png"
+img: "/assets/images/projects/project-thumb-13.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-13.png"
+featureImg1: "/assets/images/projects/project-thumb-13.webp"
 featureImg2: ""
 order: 22
 ---

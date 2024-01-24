@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN INSTALACIONES NUCLEARES Y OTRAS INFRAESTRUCTURAS CRÍTICAS"
-img: "/assets/images/projects/project-thumb-12.png"
+img: "/assets/images/projects/project-thumb-12.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-12.png"
+featureImg1: "/assets/images/projects/project-thumb-12.webp"
 featureImg2: ""
 order: 15
 ---

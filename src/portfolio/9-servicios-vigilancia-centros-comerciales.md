@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN CENTROS COMERCIALES"
-img: "/assets/images/projects/project-thumb-9.png"
+img: "/assets/images/projects/project-thumb-9.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-9.png"
+featureImg1: "/assets/images/projects/project-thumb-9.webp"
 featureImg2: ""
 order: 8
 ---

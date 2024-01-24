@@ -1,9 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "PREVENCIÓN DE RIESGOS LABORALES"
-img: "/assets/images/projects/project-thumb-21.png"
+img: "/assets/images/projects/project-thumb-21.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-21.png"
+featureImg1: "/assets/images/projects/project-thumb-21.webp"
 featureImg2: ""
 order: 23
 ---

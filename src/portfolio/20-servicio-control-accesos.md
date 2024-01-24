@@ -1,9 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "SERVICIO DE CONTROL DE ACCESOS"
-img: "/assets/images/projects/project-thumb-20.png"
+img: "/assets/images/projects/project-thumb-20.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-20.png"
+featureImg1: "/assets/images/projects/project-thumb-20.webp"
 featureImg2: ""
 order: 18
 ---
