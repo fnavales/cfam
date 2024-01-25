@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA CON PERROS"
-img: "/assets/images/projects/project-thumb-10.png"
+img: "/assets/images/projects/project-thumb-10.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-10.png"
+featureImg1: "/assets/images/projects/project-thumb-10.webp"
 featureImg2: ""
 order: 17
 ---

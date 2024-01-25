@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN AEROPUERTOS"
-img: "/assets/images/projects/project-thumb-11.png"
+img: "/assets/images/projects/project-thumb-11.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-11.png"
+featureImg1: "/assets/images/projects/project-thumb-11.webp"
 featureImg2: ""
 order: 12
 ---

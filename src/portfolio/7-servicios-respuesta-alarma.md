@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIOS DE RESPUESTA ANTE ALARMAS"
-img: "/assets/images/projects/project-thumb-7.png"
+img: "/assets/images/projects/project-thumb-7.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-7.png"
+featureImg1: "/assets/images/projects/project-thumb-7.webp"
 featureImg2: ""
 order: 10
 ---

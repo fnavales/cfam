@@ -1,9 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "PRÁCTICAS DE TIRO CON FUEGO REAL PARA LICENCIA DE ARMAS TIPO C"
-img: "/assets/images/projects/project-thumb-22.png"
+img: "/assets/images/projects/project-thumb-22.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-22.png"
+featureImg1: "/assets/images/projects/project-thumb-22.webp"
 featureImg2: ""
 order: 25
 ---

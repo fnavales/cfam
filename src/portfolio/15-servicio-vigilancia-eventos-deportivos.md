@@ -1,9 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN EVENTOS DEPORTIVOS Y ESPECTÁCULOS PÚBLICOS"
-img: "/assets/images/projects/project-thumb-15.png"
+img: "/assets/images/projects/project-thumb-15.webp"
 linkText: "ver curso"
-featureImg1: "/assets/images/projects/project-thumb-15.png"
+featureImg1: "/assets/images/projects/project-thumb-15.webp"
 featureImg2: ""
 order: 9
 ---
