@@ -7,9 +7,11 @@ featureImg1: "/assets/images/projects/project-thumb-20.webp"
 featureImg2: ""
 order: 18
 ---
-Destaca entre el resto de currículum con este curso de control de accesos 🚦
+👮‍♂️👮 Bienvenido al Curso de Formación en Servicio de Control de Accesos. En este curso complementario, exploraremos los fundamentos esenciales que todo profesional del control de accesos debe comprender para garantizar la seguridad y la gestión eficiente en puntos de entrada y áreas restringidas. Desde el manejo de tecnologías de acceso hasta las habilidades de comunicación y prevención de situaciones no autorizadas, este curso está diseñado para equipar a los participantes con las habilidades esenciales necesarias para desempeñar un papel clave en la seguridad de instalaciones y eventos.
 
-👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
+🚦 Destaca entre el resto de currículum con este curso de control de accesos.
+
+Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 
 Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para una mejor formación profesional.
 

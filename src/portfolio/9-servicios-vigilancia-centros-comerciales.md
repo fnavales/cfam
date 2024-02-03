@@ -7,7 +7,14 @@ featureImg1: "/assets/images/projects/project-thumb-9.webp"
 featureImg2: ""
 order: 8
 ---
-👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
+👮‍♂️👮 Bienvenido al Curso de Formación en Servicios de Vigilancia en Centros Comerciales. En este curso especializado, 
+exploraremos los aspectos cruciales que todo profesional de la vigilancia en entornos comerciales debe comprender para 
+garantizar la seguridad y tranquilidad de clientes y empleados. Desde tácticas de observación y prevención hasta la gestión 
+eficiente de situaciones de emergencia, este curso está diseñado para equipar a los participantes con las habilidades 
+esenciales necesarias para desempeñar un papel destacado en la protección de activos y la prevención de incidentes en el 
+dinámico entorno de un centro comercial. 
+
+Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 
 Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para una mejor formación profesional.
 

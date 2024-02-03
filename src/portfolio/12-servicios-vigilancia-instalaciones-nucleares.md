@@ -7,7 +7,14 @@ featureImg1: "/assets/images/projects/project-thumb-12.webp"
 featureImg2: ""
 order: 15
 ---
-👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
+👮‍♂️👮 Bienvenido al Curso de Formación en Servicio de Vigilancia en Instalaciones Nucleares y Otras Infraestructuras 
+Críticas. En este curso especializado, exploraremos los principios fundamentales y las técnicas avanzadas necesarias 
+para garantizar la seguridad y protección de dichas instalaciones. Desde la comprensión de las amenazas específicas 
+hasta la implementación de protocolos de seguridad altamente especializados, este curso está diseñado para equipar a los 
+participantes con las habilidades esenciales para desempeñar un papel crucial en la defensa de infraestructuras clave 
+para la sociedad.
+
+Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 
 Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para una mejor formación profesional.
 

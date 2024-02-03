@@ -7,7 +7,14 @@ featureImg1: "/assets/images/projects/project-thumb-16.webp"
 featureImg2: ""
 order: 13
 ---
-👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
+👮‍♂️👮 Bienvenido al Curso de Formación en Servicios de Vigilancia en Centros de Internamiento y dependencias de seguridad. 
+En este programa especializado, exploraremos los elementos esenciales que todo profesional de la vigilancia en centros de 
+internamiento debe comprender para garantizar la seguridad, el orden y el bienestar tanto de los internos como del personal. 
+Desde estrategias de control de acceso y gestión de conflictos hasta la aplicación de protocolos específicos de la institución, 
+este curso está diseñado para equipar a los participantes con las habilidades y conocimientos necesarios para desempeñar 
+un papel crucial en la vigilancia y la seguridad de estos entornos sensibles.
+
+Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 
 Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para una mejor formación profesional.
 
