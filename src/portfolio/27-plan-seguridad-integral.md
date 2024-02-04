@@ -1,3 +1,4 @@
+---
 subTitle: "COMPLEMENTARIO" 
 title: "PLAN DE SEGURIDAD INTEGRAL"
 img: "/assets/images/projects/project-thumb-27.webp"

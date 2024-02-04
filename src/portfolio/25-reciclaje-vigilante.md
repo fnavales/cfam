@@ -1,3 +1,4 @@
+---
 subTitle: "COMPLEMENTARIO" 
 title: "RECICLAJE PARA EMPRESAS VIGILANTE DE SEGURIDAD"
 img: "/assets/images/projects/project-thumb-25.webp"
