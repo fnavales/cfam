@@ -7,7 +7,7 @@ featureImg1: "/assets/images/projects/project-thumb-21.webp"
 featureImg2: ""
 order: 23
 ---
-Destaca entre el resto de currículum con este curso complementario: Prevención de Riesgos Laborales ⛑ 
+⛑ Bienvenido al Curso de Formación en Prevención de Riesgos Laborales. En este curso complementario, exploraremos los principios fundamentales y las mejores prácticas necesarias para comprender, prevenir y gestionar los riesgos laborales en diversos entornos laborales. Desde la identificación de peligros hasta la implementación de medidas preventivas y la gestión eficaz de situaciones de emergencia, este curso está diseñado para equipar a los participantes con las habilidades esenciales para promover la seguridad y la salud en el trabajo. 
 
 👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 

@@ -7,7 +7,7 @@ featureImg1: "/assets/images/projects/project-thumb-19.webp"
 featureImg2: ""
 order: 19
 ---
-Destaca entre el resto de currículum con este curso complementario 🆘
+🆘 Bienvenido al Curso de Formación en Primeros Auxilios, Desfibrilador Externo Automático (DESA) y Seguridad contra Incendios. En este curso complementario, exploraremos los conocimientos y habilidades esenciales que todo profesional de la seguridad debe poseer para responder de manera efectiva en situaciones de emergencia. Desde la aplicación de técnicas de primeros auxilios hasta la utilización de DESA y la gestión de situaciones de incendio, este curso está diseñado para dotar a los participantes con las competencias necesarias para actuar de manera rápida y efectiva en momentos críticos.
 
 👮‍♂️👮 Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 
