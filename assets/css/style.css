@@ -1,8 +1,8 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-PROJECT:	Roxo HTML
-VERSION:	1.0.0
+PROJECT:	CFAM HTML
+VERSION:	1.1.0
 -------------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700|Montserrat:300,400,500,600,700&display=swap");
 body {
@@ -531,6 +531,15 @@ textarea.form-control {
 .site-project-pagination, .site-blog-pagination {
   margin-top: 40px;
 }
+@media (max-width: 767px) {
+  .site-project-pagination, .site-blog-pagination {
+    margin-top: 5px;
+  }
+}
+
+.site-project-pagination .pagination {
+  flex-wrap: wrap; /* Añadido para permitir el ajuste en varias líneas */
+}
 .site-project-pagination .pagination .page-item:not(:last-child), .site-blog-pagination .pagination .page-item:not(:last-child) {
   margin-right: 10px;
 }
@@ -589,8 +598,6 @@ textarea.form-control {
   font-weight: 300;
   color: #000000;
   display: flex;
-  /* margin-left: auto; */
-  /* justify-content: flex-end; */
 }
 @media (max-width: 575px) {
   .site-project-single-action a {
@@ -1000,7 +1007,7 @@ textarea.form-control {
 @media (max-width: 767px) {
   .site-team-member-image {
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -70%);
   }
 }
 .site-team-member-content h3 {
