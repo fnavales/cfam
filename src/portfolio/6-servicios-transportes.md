@@ -13,7 +13,8 @@ eficiencia en las operaciones diarias. Desde las últimas tendencias en segurida
 y gestión de riesgos, este curso está diseñado para dotar a los participantes con las habilidades necesarias para enfrentar 
 los desafíos. 
 
-Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
+Los Vigilantes de Seguridad que realicen nuestros cursos de Formación Específica y Formación complementaria tendrán su 
+debida acreditación en la cartilla profesional del Vigilante de Seguridad, así como su respectivo Diploma. 
 
 Además, nuestros cursos incluyen PRÁCTICAS con entidades colaboradoras, para una mejor formación profesional.
 
