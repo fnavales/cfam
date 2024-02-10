@@ -222,6 +222,11 @@ textarea.form-control {
 .site-navigation .navbar-brand img {
   max-width: 192px;
 }
+@media (max-width: 575px) {
+  .site-navigation .navbar-brand img {
+    max-width: 150px;
+  }
+}
 @media (max-width: 991px) {
   .site-navigation .nav-item {
     text-align: center;
