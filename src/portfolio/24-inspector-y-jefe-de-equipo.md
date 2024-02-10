@@ -5,7 +5,7 @@ img: "/assets/images/projects/project-thumb-24.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-24.webp"
 featureImg2: ""
-order: 27
+order: 11
 ---
 Bienvenido al Curso de Formación para Inspectores con Coordinador de Servicio y Jefe de Equipo. En este curso, nos 
 enfocaremos en desarrollar las habilidades y competencias necesarias para desempeñar roles de liderazgo y coordinación 

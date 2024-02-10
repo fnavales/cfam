@@ -5,7 +5,7 @@ img: "/assets/images/projects/project-thumb-23.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-23.webp"
 featureImg2: ""
-order: 26
+order: 24
 ---
 Bienvenido al Curso de Defensa Personal Policial para Opositores. En este curso, nos enfocaremos en desarrollar las 
 habilidades y técnicas necesarias para los aspirantes a ingresar en las fuerzas policiales, fortaleciendo su preparación 

@@ -5,7 +5,7 @@ img: "/assets/images/projects/project-thumb-26.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-26.webp"
 featureImg2: ""
-order: 29
+order: 28
 ---
 Bienvenida al Curso de Defensa Personal Femenina. En este curso , exploraremos técnicas prácticas y estrategias efectivas 
 diseñadas específicamente para fortalecer la seguridad y la confianza de las mujeres en situaciones de riesgo o peligrosas. 

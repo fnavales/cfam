@@ -5,7 +5,7 @@ img: "/assets/images/projects/project-thumb-27.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-27.webp"
 featureImg2: ""
-order: 30
+order: 26
 ---
 Bienvenido al Curso de Formación en Planificación de Seguridad Integral. En este curso especializado, exploraremos los 
 principios y prácticas fundamentales necesarios para desarrollar e implementar un plan de seguridad integral efectivo en 

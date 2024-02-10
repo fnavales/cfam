@@ -5,7 +5,7 @@ img: "/assets/images/projects/project-thumb-25.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-25.webp"
 featureImg2: ""
-order: 28
+order: 27
 ---
 Bienvenidos al Curso de Reciclaje para Empresas de Vigilantes de Seguridad. En este curso, nos enfocaremos en actualizar 
 y reforzar las habilidades y conocimientos de los vigilantes de seguridad en servicio activo. Este curso está diseñado 
