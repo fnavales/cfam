@@ -9,6 +9,7 @@ body {
   font-family: "Josefin Sans", sans-serif;
   font-size: 16px;
   color: #000000;
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
