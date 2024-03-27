@@ -5,6 +5,11 @@ PROJECT:	CFAM HTML
 VERSION:	1.1.0
 -------------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700|Montserrat:300,400,500,600,700&display=swap");
+
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: "Josefin Sans", sans-serif;
   font-size: 16px;
