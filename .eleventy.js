@@ -1,21 +1,7 @@
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
-
-  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// which file extensions to process
-		extensions: "html",
-
-		// optional, output image formats
-		formats: ["webp"],
-
-		// optional, attributes assigned on <img> override these values.
-		defaultAttributes: {
-			loading: "lazy",
-			decoding: "async",
-		},
-	});
+  eleventyConfig.setDataDeepMerge(false);
+  eleventyConfig.setLiquidOptions({ strictFilters: false, dynamicPartials: false })
 
   // Function to apply a collection filter
   eleventyConfig.addFilter("limit", function(array, limit) {
