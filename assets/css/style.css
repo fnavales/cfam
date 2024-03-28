@@ -4,8 +4,6 @@
 PROJECT:	CFAM HTML
 VERSION:	1.1.0
 -------------------------------------------------------------------*/
-@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700|Montserrat:300,400,500,600,700&display=swap");
-
 html {
   overflow-x: hidden;
 }
@@ -15,6 +13,7 @@ body {
   font-size: 16px;
   color: #000000;
   overflow-x: hidden;
+  background: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -124,10 +123,6 @@ h6 {
 }
 .btn-secondary:hover {
   background: #3EC1FF;
-}
-
-body {
-  background: #fff;
 }
 
 .section-title {
