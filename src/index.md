@@ -1,7 +1,6 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "SOY ANTONIO MAESTRA MARTÍNEZ"
   title:
     firstPara: "Te ayudo a formarte en Seguridad Privada"
     secondPara: "para impulsar tu carrera profesional. 🛡️📚"
@@ -13,7 +12,7 @@ hero:
     link: "https://wa.me/672458610"
 
 portfolio:
-  subTitle: "Explora nuestros cursos"
+  subTitle: "¿Conoces nuestros cursos?"
   title: "Descubre un camino de desarrollo profesional en el ámbito de la seguridad con nuestros cursos especializados."
   seeAllbtn:
     link: "portfolio"

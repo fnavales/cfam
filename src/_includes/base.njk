@@ -80,38 +80,6 @@
     {{content | safe}}
   {% endblock %}
 
-  {% block workTogether %}
-    <section class="site-cta">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 text-center">
-            <h1 class="site-cta-title">{{workTogether.heading}}</h1>
-            <ul class="site-cta-buttons">
-              <li>
-                <a href="{{workTogether.submitBtn.btnLink}}" target="_blank" class="btn btn-secondary">
-                  <span class="btn-area">
-                    <span data-text="{{workTogether.submitBtn.btnText}}">
-                      {{workTogether.submitBtn.btnText}}
-                    </span>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="/{{workTogether.convBtn.btnLink}}" class="btn btn-primary">
-                  <span class="btn-area">
-                    <span data-text="{{workTogether.convBtn.btnText}}">
-                      {{workTogether.convBtn.btnText}}
-                    </span>
-                  </span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </section>
-  {% endblock %}
-
   <a href="https://api.whatsapp.com/send?phone=672458610" class="float" target="_blank">
     <i class="fa fa-whatsapp my-float"></i>
   </a>
