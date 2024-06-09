@@ -32,7 +32,7 @@
           </div>
           <div class="row">
             {% for portfolio in portfolios %}
-            <div class="col-lg-6 col-md-10 mx-auto">
+            <div class="col-lg-4 col-md-10">
               <div class="site-project-item">
                 <div class="site-project-item-thumb">
                   <img decoding="async" loading="lazy" src="{{portfolio.data.img}}" alt="project-thumb">
@@ -47,37 +47,40 @@
               </div>
             </div>
             {% endfor %}
-            <div class="col-12">
-              <div class="site-project-pagination">
-                <nav>
-                  <ul class="pagination">
-                    {% if pagination.href.previous %}
-                    <li class="page-item">
-                        <a class="page-link" href="{{pagination.href.previous}}">
-                            <span aria-hidden="true">&laquo;</span>
-                            <span class="sr-only">Anterior</span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% for pageEntry in pagination.hrefs %}
-                    <li {% if page.url == pageEntry %}
-                          class="page-item active"><a class="page-link" href="{{pageEntry}}">{{loop.index}}</a></li>
-                        {% else %}
-                          class="page-item"><a class="page-link" href="{{pageEntry}}">{{loop.index}}</a></li>
-                        {% endif %}
-                    {% endfor %}
-                    {% if pagination.href.next %}
-                    <li class="page-item">
-                        <a class="page-link" href="{{pagination.href.next}}">
-                            <span aria-hidden="true">&raquo;</span>
-                            <span class="sr-only">Siguiente</span>
-                        </a>
-                    </li>
-                    {% endif %}
-                  </ul>
-                </nav>
+    
+            {% if pagination.href.next or pagination.href.previous %}
+              <div class="col-12">
+                <div class="site-project-pagination">
+                  <nav>
+                    <ul class="pagination">
+                      {% if pagination.href.previous %}
+                      <li class="page-item">
+                          <a class="page-link" href="{{pagination.href.previous}}">
+                              <span aria-hidden="true">&laquo;</span>
+                              <span class="sr-only">Anterior</span>
+                          </a>
+                      </li>
+                      {% endif %}
+                      {% for pageEntry in pagination.hrefs %}
+                      <li {% if page.url == pageEntry %}
+                            class="page-item active"><a class="page-link" href="{{pageEntry}}">{{loop.index}}</a></li>
+                          {% else %}
+                            class="page-item"><a class="page-link" href="{{pageEntry}}">{{loop.index}}</a></li>
+                          {% endif %}
+                      {% endfor %}
+                      {% if pagination.href.next %}
+                      <li class="page-item">
+                          <a class="page-link" href="{{pagination.href.next}}">
+                              <span aria-hidden="true">&raquo;</span>
+                              <span class="sr-only">Siguiente</span>
+                          </a>
+                      </li>
+                      {% endif %}
+                    </ul>
+                  </nav>
+                </div>
               </div>
-            </div>
+            {% endif %}
           </div>
         </div>
     </section>

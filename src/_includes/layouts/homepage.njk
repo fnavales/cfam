@@ -14,7 +14,7 @@
               </h1>
               <ul class="site-hero-content-buttons">
                 <li>
-                  <a href="{{hero.seeWorkBtn.link}}" class="btn btn-secondary scroll-to">
+                  <a href="{{hero.seeWorkBtn.link}}" class="btn btn-primary scroll-to">
                     <span class="btn-area">
                       <span data-text="{{hero.seeWorkBtn.text}}">
                         {{hero.seeWorkBtn.text}}
@@ -23,7 +23,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="{{hero.connectBtn.link}}" target="_blank" class="btn btn-primary">
+                  <a href="{{hero.connectBtn.link}}" target="_blank" class="btn btn-secondary">
                     <span class="btn-area">
                       <span data-text="{{hero.connectBtn.text}}">
                         {{hero.connectBtn.text}}
@@ -107,9 +107,7 @@
             </div>
             <div class="site-homologado-wrapper">
               {% for entidad in homologacion.entidades %}
-              <div class="site-homologado-item">
                 <img decoding="async" loading="lazy" src="{{entidad.img}}" alt="entity-logo">
-              </div>
               {% endfor %}
             </div>
           </div>

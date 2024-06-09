@@ -3,13 +3,13 @@
   "subTitle": "Cursos Homologados",
   "entidades":[
     {
-      "img": "assets/images/homologacion/Cuerpo-Nacional-de-Policia.webp"
+      "img": "assets/images/homologacion/Cuerpo-Nacional-de-Policia.svg"
     },
     {
-      "img": "assets/images/homologacion/Ministerio-del-Interior-1.webp"
+      "img": "assets/images/homologacion/MIR.Gob.Web.svg"
     },
     {
-      "img": "assets/images/homologacion/Guardia-civil.webp"
+      "img": "assets/images/homologacion/Escudo_Oficial_Guardia_Civil.svg"
     }
   ]
 }

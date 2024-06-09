@@ -20,32 +20,10 @@
                 {% endif %}
               </div>
               {% if collections.portfolios %}
-              {% set nextPost = collections.portfolios | getNextCollectionItem(page) %}
-              {% set previousPost = collections.portfolios | getPreviousCollectionItem(page) %}
-              
-              <div class="site-project-single-action d-flex justify-content-between">
-                {% if previousPost%}
-                <a href="{{previousPost.url}}">
-                  <img decoding="async" loading="lazy" class="rev" src="/assets/images/to-top.svg" alt="next project">
-                  <span class="link-area">
-                    <span data-text="{{previousPost.data.title}}">
-                      Curso Anterior
-                    </span>
-                  </span>
-                </a>
-                {% endif %}
-                {% if nextPost %}
-                <a href="{{nextPost.url}}">
-                  <span class="link-area">
-                    <span data-text="{{nextPost.data.title}}">
-                      Siguiente Curso
-                    </span>
-                  </span>
-                  <img decoding="async" loading="lazy" src="/assets/images/to-top.svg" alt="next project">
-                </a> 
-                {% endif %} 
-              </div>
-              {% endif %}
+                <div class="col-12 text-center text-lg-left">
+                  <a href="/portfolio" class="site-project-cta">Ver todos los cursos</a>
+                </div>
+              {% endif %} 
             </div>
           </div>
         </div>

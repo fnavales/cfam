@@ -3,7 +3,7 @@ layout: "layouts/homepage.njk"
 hero:
   title:
     firstPara: "Te ayudo a formarte en Seguridad Privada"
-    secondPara: "para impulsar tu carrera profesional. 🛡️📚"
+    secondPara: "para impulsar tu carrera profesional"
   seeWorkBtn:
     text: "Nuestros Cursos"
     link: "#project"
