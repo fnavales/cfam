@@ -1,5 +1,5 @@
 {
-  "navLogo":"/assets/images/logo.svg",
+  "navLogo":"/assets/images/logo_optimized.svg",
   "navLinks":[
     {"route": "home", "name": "inicio"},
     {"route": "about", "name": "sobre mí"},
