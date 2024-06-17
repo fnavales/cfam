@@ -141,16 +141,23 @@ h6 {
 .section-title {
   margin-bottom: 70px;
 }
+@media (max-width: 575px) {
+  .section-title {
+    margin-bottom: 30px;
+  }
+}
 @media (max-width: 991px) {
   .section-title {
     text-align: center;
   }
 }
+
 @media (max-width: 991px) {
   .section-title h2 {
     font-size: 35px;
   }
 }
+
 .section-title h3 {
   font-weight: 500;
   letter-spacing: 2px;
@@ -230,7 +237,7 @@ textarea.form-control {
 
 @media (max-width: 575px) {
   .site-navigation {
-    padding: 15px;
+    padding: 20px;
   }
 }
 .site-navigation .navbar-brand {
@@ -304,7 +311,7 @@ textarea.form-control {
 }
 @media (max-width: 575px) {
   .site-navigation.nav-bg {
-    padding: 15px;
+    padding: 20px;
   }
 }
 
@@ -383,7 +390,7 @@ textarea.form-control {
 }
 @media (max-width: 575px) {
   .site-counter {
-    padding: 50px 0;
+    padding: 60px 0;
   }
 }
 .site-counter-item {
@@ -413,6 +420,11 @@ textarea.form-control {
 .site-project, .site-blog {
   padding: 120px 0;
   overflow: hidden;
+}
+@media (max-width: 575px) {
+  .site-project, .site-blog {
+    padding: 60px 0;
+  }
 }
 .site-project-item, .site-blog-post {
   position: relative;
@@ -768,12 +780,24 @@ textarea.form-control {
   padding: 120px 0;
   overflow: hidden;
 }
+@media (max-width: 575px) {
+  .site-testimonial {
+    padding: 60px 0;
+  }
+}
+
 .site-testimonial-item {
   background: var(--cfam-white);
   padding: 30px;
   margin-bottom: 30px;
   transition: all 0.3s ease-in;
 }
+@media (max-width: 575px) {
+  .site-testimonial-item {
+    margin-bottom: 10px;
+  }
+}
+
 .site-testimonial-item.active {
   box-shadow: 0px 30px 45px 0px rgba(0, 0, 0, 0.05);
 }
@@ -949,6 +973,12 @@ textarea.form-control {
 .site-homologado .section-title {
   margin-bottom: 100px;
 }
+@media (max-width: 575px) {
+  .site-homologado .section-title {
+    margin-bottom: 50px;
+  }
+}
+
 .site-client-wrapper {
   display: flex;
   flex-wrap: wrap;
@@ -985,6 +1015,12 @@ textarea.form-control {
   padding: 120px 0 50px 0;
   overflow: hidden;
 }
+@media (max-width: 575px) {
+  .site-homologado {
+    padding: 60px 0;
+  }
+}
+
 .site-homologado-wrapper {
   display: flex;
   justify-content: flex-start;
@@ -1000,7 +1036,7 @@ textarea.form-control {
 }
 @media (max-width: 991px) {
   .site-homologado-wrapper {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
   }
 }
 @media (max-width: 991px) {
@@ -1130,6 +1166,12 @@ textarea.form-control {
   background: #222222;
   padding: 100px 0;
 }
+@media (max-width: 575px) {
+  .site-footer {
+    padding: 60px 0;
+  }
+}
+
 .site-footer-logo {
   margin-bottom: 50px;
 }
