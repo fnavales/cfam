@@ -1,4 +1,5 @@
 # CFAM
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8b1d688-47cd-450b-aab2-b95c81b304c3/deploy-status)](https://app.netlify.com/sites/cfam-formacion/deploys)
 
 [CFAM](https://cfam.es) es un centro de formación homologado en Seguridad Privada.
 
