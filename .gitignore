@@ -3,3 +3,6 @@ _site
 dist
 .idea
 *lock*
+src/blog
+src/blog/*
+.cache
