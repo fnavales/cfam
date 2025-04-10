@@ -1,24 +1,25 @@
 ---
 subTitle: "COMPLEMENTARIO" 
-title: "PRÁCTICAS DE TIRO CON FUEGO REAL PARA LICENCIA DE ARMAS TIPO C"
+title: "CURSO TEÓRICO PARA LICENCIA DE ARMAS TIPO C"
 img: "/assets/images/projects/project-thumb-22.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-22.webp"
 featureImg2: ""
 order: 25
 ---
-🔫 Bienvenido al Curso de Prácticas de Tiro con Fuego Real para Obtención de Licencia de Armas Tipo C. En este programa complementario, exploraremos los aspectos fundamentales y las habilidades prácticas necesarias para llevar a cabo prácticas de tiro seguro y efectivo con armas de fuego. Desde la seguridad en el manejo de armas hasta la precisión en el disparo y el cumplimiento de normativas legales, este curso está diseñado para equipar a los participantes con las competencias necesarias para obtener y mantener una licencia de armas tipo C.
+🔫 Bienvenido al Curso Teórico para Obtención de Licencia de Armas Tipo C.
+En este programa complementario, abordaremos los aspectos teóricos esenciales para la obtención de la licencia de armas tipo C. Desde la legislación vigente sobre la posesión y uso de armas, hasta los principios de seguridad en su manejo y las normativas para su uso adecuado, este curso está diseñado para proporcionar a los participantes los conocimientos necesarios para cumplir con los requisitos legales y obtener la licencia de armas tipo C.
 
-En CFAM tienes la oportunidad de realizar tus prácticas de tiro con fuego real para la obtención de la licencia de armas tipo C💥
+En CFAM ahora tienes la oportunidad de completar este curso teórico online para la obtención de la licencia de armas tipo C.💥
 
 ❗️INFORMACIÓN IMPORTANTE❗️
 
-✅ Nombre: Prácticas de tiro con fuego real para licencia de armas tipo C
+✅ Nombre: Curso Teórico para Licencia de Armas Tipo C
 
 ✅ Tipo: Curso complementario
 
 ✅ Duración: 30 h.
 
-✅ Modalidad: Presencial.
+✅ Modalidad: Online
 
-✅Precio: Consultar
+✅ Precio: Consultar
