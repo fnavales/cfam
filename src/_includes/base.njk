@@ -2,9 +2,10 @@
 <html lang="es">
   <head>
     <meta charset="utf-8" />
-    <title>CFAM | Formación en Seguridad Privada en Baza y Granada</title>
+    <title>{{ metaTitle or 'CFAM | Formación en Seguridad Privada en Baza y Granada' }}</title>
     <meta name="generator" content="Eleventy">
-    <meta name="description" content="CFAM es tu centro de formación en seguridad privada en Baza y Granada. Cursos especializados con certificaciones homologadas. ¡Fórmate con expertos!">
+    <meta name="description" content="{{ metaDescription or 'CFAM es tu centro de formación en seguridad privada en Baza y Granada. Cursos especializados con certificaciones homologadas. ¡Fórmate con expertos!' }}">
+    <link rel="canonical" href="{{ canonicalUrl or 'https://cfam.es/' }}">
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />

@@ -21,6 +21,8 @@ module.exports = function (eleventyConfig) {
         .sort((a, b) => Math.sign(a.data.order - b.data.order));
   });
 
+  eleventyConfig.addPassthroughCopy({ 'src/robots.txt': 'robots.txt' });
+
   return {
     passthroughFileCopy: true,
     markdownTemplateEngine: "njk",

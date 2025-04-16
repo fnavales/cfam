@@ -1,6 +1,9 @@
 ---
 subTitle: "GENERAL" 
 title: "CURSO ESCOLTA PRIVADO"
+metaTitle: "Curso Escolta Privado - CFAM Formación"
+metaDescription: "Conviértete en escolta privado con CFAM Formación y obtén la acreditación oficial que abre las puertas a una carrera en el sector de la seguridad."
+canonicalUrl: "https://cfam.es/portfolio/1-escolta-privado"
 img: "/assets/images/projects/project-thumb-1.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-1.webp"
