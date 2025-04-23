@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN EVENTOS DEPORTIVOS Y ESPECTÁCULOS PÚBLICOS"
+metaTitle: "Curso Vigilancia en Eventos Deportivos y Espectáculos Públicos - CFAM Formación"
+metaDescription: "Especialízate en vigilancia y seguridad en eventos deportivos y espectáculos públicos. Curso homologado en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/15-servicio-vigilancia-eventos-deportivos"
 img: "/assets/images/projects/project-thumb-15.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-15.webp"

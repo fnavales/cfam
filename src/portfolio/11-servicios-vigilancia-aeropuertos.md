@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN AEROPUERTOS"
+metaTitle: "Curso Vigilancia en Aeropuertos - CFAM Formación"
+metaDescription: "Fórmate en vigilancia aeroportuaria con CFAM Formación. Aprende a proteger instalaciones y pasajeros en entornos aeroportuarios."
+canonicalUrl: "https://cfam.es/portfolio/11-servicios-vigilancia-aeropuertos"
 img: "/assets/images/projects/project-thumb-11.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-11.webp"

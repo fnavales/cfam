@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "JUDO VERBAL"
+metaTitle: "Curso Judo Verbal - CFAM Formación"
+metaDescription: "Domina el arte de la persuasión y la comunicación estratégica con el curso de Judo Verbal de CFAM Formación. Técnicas para gestionar conflictos."
+canonicalUrl: "https://cfam.es/portfolio/29-judo-verbal"
 img: "/assets/images/projects/project-thumb-29.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-29.webp"

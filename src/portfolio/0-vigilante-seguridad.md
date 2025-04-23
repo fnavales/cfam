@@ -1,6 +1,9 @@
 ---
 subTitle: "GENERAL" 
 title: "CURSO VIGILANTE DE SEGURIDAD"
+metaTitle: "Curso Vigilante de Seguridad - CFAM Formación"
+metaDescription: "Fórmate como Vigilante de Seguridad en CFAM y accede a una profesión con alta demanda. Certificación oficial y preparación integral."
+canonicalUrl: "https://cfam.es/portfolio/0-vigilante-seguridad"
 img: "/assets/images/projects/project-thumb-0.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-0.webp"

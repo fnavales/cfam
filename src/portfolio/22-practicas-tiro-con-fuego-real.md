@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "CURSO TEÓRICO PARA LICENCIA DE ARMAS TIPO C"
+metaTitle: "Curso Teórico para Licencia de Armas Tipo C - CFAM Formación"
+metaDescription: "Prepárate para la obtención de la licencia de armas tipo C con CFAM Formación. Curso teórico online y actualizado."
+canonicalUrl: "https://cfam.es/portfolio/22-practicas-tiro-con-fuego-real"
 img: "/assets/images/projects/project-thumb-22.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-22.webp"

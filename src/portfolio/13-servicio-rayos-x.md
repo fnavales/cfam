@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO CON APARATO DE RAYOS-X"
+metaTitle: "Curso Servicio con Aparato de Rayos-X - CFAM Formación"
+metaDescription: "Aprende a trabajar de manera segura y efectiva equipos de rayos-X con CFAM Formación. Formación homologada para vigilancia con aparatos de rayos-X."
+canonicalUrl: "https://cfam.es/portfolio/13-servicio-rayos-x"
 img: "/assets/images/projects/project-thumb-13.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-13.webp"

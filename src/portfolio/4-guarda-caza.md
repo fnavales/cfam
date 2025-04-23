@@ -1,6 +1,9 @@
 ---
 subTitle: "GENERAL" 
 title: "CURSO GUARDA DE CAZA"
+metaTitle: "Curso Guarda de Caza - CFAM Formación"
+metaDescription: "Conviértete en Guarda de Caza con CFAM Formación. Formación homologada para vigilancia y protección en cotos de caza."
+canonicalUrl: "https://cfam.es/portfolio/4-guarda-caza"
 img: "/assets/images/projects/project-thumb-4.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-4.webp"

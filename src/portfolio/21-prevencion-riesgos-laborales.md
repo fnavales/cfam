@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "PREVENCIÓN DE RIESGOS LABORALES"
+metaTitle: "Curso Prevención de Riesgos Laborales - CFAM Formación"
+metaDescription: "Fórmate en prevención de riesgos laborales con CFAM Formación. Aprende a identificar y gestionar riesgos en el entorno laboral."
+canonicalUrl: "https://cfam.es/portfolio/21-prevencion-riesgos-laborales"
 img: "/assets/images/projects/project-thumb-21.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-21.webp"

@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA CON PERROS"
+metaTitle: "Curso Vigilancia con Perros - CFAM Formación"
+metaDescription: "Especialízate en vigilancia con perros en CFAM Formación. Aprende técnicas de manejo y patrullaje con perros para la seguridad profesional."
+canonicalUrl: "https://cfam.es/portfolio/10-servicios-vigilancia-perros"
 img: "/assets/images/projects/project-thumb-10.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-10.webp"

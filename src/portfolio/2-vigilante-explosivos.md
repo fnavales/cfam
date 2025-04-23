@@ -1,6 +1,9 @@
 ---
 subTitle: "GENERAL" 
 title: "CURSO VIGILANTE DE EXPLOSIVOS"
+metaTitle: "Curso Vigilante de Explosivos - CFAM Formación"
+metaDescription: "Especialízate como Vigilante de Explosivos en CFAM Formación y obtén la acreditación oficial para trabajar en la protección y transporte de explosivos."
+canonicalUrl: "https://cfam.es/portfolio/2-vigilante-explosivos"
 img: "/assets/images/projects/project-thumb-2.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-2.webp"

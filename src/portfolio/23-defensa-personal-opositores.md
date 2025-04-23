@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "DEFENSA PERSONAL POLICIAL"
+metaTitle: "Curso Defensa Personal Policial - CFAM Formación"
+metaDescription: "Curso de defensa personal policial para opositores en CFAM Formación. Técnicas y habilidades para el ámbito policial."
+canonicalUrl: "https://cfam.es/portfolio/23-defensa-personal-opositores"
 img: "/assets/images/projects/project-thumb-23.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-23.webp"

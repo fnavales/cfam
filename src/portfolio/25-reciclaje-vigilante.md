@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "RECICLAJE PARA EMPRESAS VIGILANTE DE SEGURIDAD"
+metaTitle: "Curso Reciclaje para Vigilantes de Seguridad - CFAM Formación"
+metaDescription: "Actualiza tus conocimientos como vigilante de seguridad con el curso de reciclaje de CFAM Formación. Mantente al día en el sector."
+canonicalUrl: "https://cfam.es/portfolio/25-reciclaje-vigilante"
 img: "/assets/images/projects/project-thumb-25.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-25.webp"

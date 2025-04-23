@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN CENTROS HOSPITALARIOS"
+metaTitle: "Curso Vigilancia en Centros Hospitalarios - CFAM Formación"
+metaDescription: "Especialízate en vigilancia hospitalaria con CFAM Formación. Aprende a proteger pacientes, personal y bienes en entornos sanitarios."
+canonicalUrl: "https://cfam.es/portfolio/14-servicio-vigilancia-hospitales"
 img: "/assets/images/projects/project-thumb-14.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-14.webp"

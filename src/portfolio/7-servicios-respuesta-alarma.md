@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIOS DE RESPUESTA ANTE ALARMAS"
+metaTitle: "Curso Servicios de Respuesta ante Alarmas - CFAM Formación"
+metaDescription: "Aprende a actuar ante alarmas y emergencias. Curso de respuesta ante alarmas en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/7-servicios-respuesta-alarma"
 img: "/assets/images/projects/project-thumb-7.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-7.webp"

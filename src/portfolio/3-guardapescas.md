@@ -1,6 +1,9 @@
 ---
 subTitle: "GENERAL" 
 title: "CURSO GUARDAPESCAS MARÍTIMO"
+metaTitle: "Curso Guardapescas Marítimo - CFAM Formación"
+metaDescription: "Especialízate como Guardapesca Marítimo con CFAM Formación. Aprende los requisitos y obtén tu acreditación oficial."
+canonicalUrl: "https://cfam.es/portfolio/3-guardapescas"
 img: "/assets/images/projects/project-thumb-3.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-3.webp"

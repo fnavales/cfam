@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "PLAN DE SEGURIDAD INTEGRAL"
+metaTitle: "Curso Plan de Seguridad Integral - CFAM Formación"
+metaDescription: "Aprende a diseñar e implementar planes de seguridad integral con CFAM Formación. Estrategias para proteger personas y activos."
+canonicalUrl: "https://cfam.es/portfolio/27-plan-seguridad-integral"
 img: "/assets/images/projects/project-thumb-27.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-27.webp"

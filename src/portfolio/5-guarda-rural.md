@@ -1,6 +1,9 @@
 ---
 subTitle: "GENERAL" 
 title: "CURSO GUARDA RURAL"
+metaTitle: "Curso Guarda Rural - CFAM Formación"
+metaDescription: "Fórmate como Guarda Rural en CFAM y accede a una profesión clave en la vigilancia de fincas y entornos rurales."
+canonicalUrl: "https://cfam.es/portfolio/5-guarda-rural"
 img: "/assets/images/projects/project-thumb-5.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-5.webp"

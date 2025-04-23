@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "PRIMEROS AUXILIOS, DESA, SEGURIDAD CONTRA INCENDIOS"
+metaTitle: "Curso Primeros Auxilios, DESA y Seguridad Contra Incendios - CFAM Formación"
+metaDescription: "Aprende primeros auxilios, uso de DESA y seguridad contra incendios en CFAM Formación. Formación esencial para profesionales de la seguridad."
+canonicalUrl: "https://cfam.es/portfolio/19-primeros-auxilios"
 img: "/assets/images/projects/project-thumb-19.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-19.webp"

@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "INSPECTOR CON COORDINADOR DE SERVICIOS Y JEFE DE EQUIPO"
+metaTitle: "Curso Inspector, Coordinador y Jefe de Equipo - CFAM Formación"
+metaDescription: "Fórmate como inspector, coordinador de servicios y jefe de equipo en CFAM Formación. Liderazgo y gestión en seguridad privada."
+canonicalUrl: "https://cfam.es/portfolio/24-inspector-y-jefe-de-equipo"
 img: "/assets/images/projects/project-thumb-24.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-24.webp"

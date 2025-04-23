@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "HABILIDADES SOCIALES PARA VIGILANTES DE SEGURIDAD"
+metaTitle: "Curso Habilidades Sociales para Vigilantes de Seguridad - CFAM Formación"
+metaDescription: "Desarrolla habilidades sociales clave para vigilantes de seguridad en CFAM Formación. Comunicación, gestión de conflictos y trato profesional."
+canonicalUrl: "https://cfam.es/portfolio/28-habilidades-sociales"
 img: "/assets/images/projects/project-thumb-28.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-28.webp"

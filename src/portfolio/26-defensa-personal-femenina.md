@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "CURSO DE DEFENSA PERSONAL FEMENINA"
+metaTitle: "Curso Defensa Personal Femenina - CFAM Formación"
+metaDescription: "Aprende técnicas de defensa personal femenina en CFAM Formación. Seguridad y confianza para mujeres en situaciones de riesgo."
+canonicalUrl: "https://cfam.es/portfolio/26-defensa-personal-femenina"
 img: "/assets/images/projects/project-thumb-26.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-26.webp"

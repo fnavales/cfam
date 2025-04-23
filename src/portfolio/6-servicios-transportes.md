@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIOS DE TRANSPORTES DE SEGURIDAD"
+metaTitle: "Curso Servicios de Transportes de Seguridad - CFAM Formación"
+metaDescription: "Especialízate en el transporte seguro de valores y mercancías. Curso homologado en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/6-servicios-transportes"
 img: "/assets/images/projects/project-thumb-6.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-6.webp"

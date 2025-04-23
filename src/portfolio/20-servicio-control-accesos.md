@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "SERVICIO DE CONTROL DE ACCESOS"
+metaTitle: "Curso Servicio de Control de Accesos - CFAM Formación"
+metaDescription: "Especialízate en control de accesos con CFAM Formación. Aprende a gestionar entradas, salidas y seguridad en eventos y edificios."
+canonicalUrl: "https://cfam.es/portfolio/20-servicio-control-accesos"
 img: "/assets/images/projects/project-thumb-20.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-20.webp"

@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN CENTROS COMERCIALES"
+metaTitle: "Curso Vigilancia en Centros Comerciales - CFAM Formación"
+metaDescription: "Especialízate en vigilancia y seguridad en centros comerciales. Curso homologado en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/9-servicios-vigilancia-centros-comerciales"
 img: "/assets/images/projects/project-thumb-9.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-9.webp"

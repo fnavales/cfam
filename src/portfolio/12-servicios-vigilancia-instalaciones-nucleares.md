@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN INSTALACIONES NUCLEARES Y OTRAS INFRAESTRUCTURAS CRÍTICAS"
+metaTitle: "Curso Vigilancia en Instalaciones Nucleares - CFAM Formación"
+metaDescription: "Especialízate en la vigilancia de instalaciones nucleares con CFAM Formación. Seguridad avanzada para infraestructuras críticas."
+canonicalUrl: "https://cfam.es/portfolio/12-servicios-vigilancia-instalaciones-nucleares"
 img: "/assets/images/projects/project-thumb-12.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-12.webp"

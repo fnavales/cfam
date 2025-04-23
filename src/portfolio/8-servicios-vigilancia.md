@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN URBANIZACIONES, POLÍGONOS, TRANSPORTES Y ESPACIOS PÚBLICOS"
+metaTitle: "Curso Vigilancia en Urbanizaciones y Espacios Públicos - CFAM Formación"
+metaDescription: "Fórmate en vigilancia de urbanizaciones, polígonos y espacios públicos. Curso específico en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/8-servicios-vigilancia"
 img: "/assets/images/projects/project-thumb-8.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-8.webp"

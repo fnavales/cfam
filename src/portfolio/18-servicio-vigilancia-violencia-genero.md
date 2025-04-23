@@ -1,6 +1,9 @@
 ---
 subTitle: "COMPLEMENTARIO" 
 title: "SERVICIO DE VIGILANCIA ANTE VIOLENCIA DE GÉNERO"
+metaTitle: "Curso Vigilancia ante Violencia de Género - CFAM Formación"
+metaDescription: "Fórmate en vigilancia y prevención de violencia de género con CFAM Formación. Aprende a intervenir y proteger en situaciones sensibles."
+canonicalUrl: "https://cfam.es/portfolio/18-servicio-vigilancia-violencia-genero"
 img: "/assets/images/projects/project-thumb-18.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-18.webp"

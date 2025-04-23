@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA EN CENTROS DE INTERNAMIENTO Y DEPENDENCIAS DE SEGUIRIDAD"
+metaTitle: "Curso Vigilancia en Centros de Internamiento - CFAM Formación"
+metaDescription: "Fórmate en vigilancia y seguridad en centros de internamiento y dependencias. Curso específico en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/16-servicio-vigilancia-centros-internamiento"
 img: "/assets/images/projects/project-thumb-16.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-16.webp"

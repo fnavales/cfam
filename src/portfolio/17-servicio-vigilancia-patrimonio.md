@@ -1,6 +1,9 @@
 ---
 subTitle: "ESPECÍFICO" 
 title: "SERVICIO DE VIGILANCIA DE PATRIMONIO HISTÓRICO ARTÍSTICO"
+metaTitle: "Curso Vigilancia de Patrimonio Histórico Artístico - CFAM Formación"
+metaDescription: "Especialízate en la vigilancia y protección del patrimonio histórico y artístico. Curso homologado en CFAM Formación."
+canonicalUrl: "https://cfam.es/portfolio/17-servicio-vigilancia-patrimonio"
 img: "/assets/images/projects/project-thumb-17.webp"
 linkText: "ver curso"
 featureImg1: "/assets/images/projects/project-thumb-17.webp"
