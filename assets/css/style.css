@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: var(--cfam-black);
+  text-wrap: balance;
 }
 
 p {
@@ -322,7 +323,7 @@ textarea.form-control {
 
 .site-hero {
   position: relative;
-  height: 100vh;
+  height: 100dvh;
   background-image: url("../images/backgrounds/hero-background.webp");
   background-size: cover;
   background-position: center center;
@@ -336,7 +337,7 @@ textarea.form-control {
 }
 @media (max-width: 991px) {
   .site-hero-content h1 {
-    font-size: 45px;
+    font-size: 36px;
   }
 }
 .site-hero-content-buttons {
