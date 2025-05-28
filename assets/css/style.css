@@ -410,6 +410,11 @@ textarea.form-control {
   font-size: 26px;
   font-weight: 300;
 }
+@media (max-width: 575px) {
+  .site-counter-item-title {
+    font-size: 22px;
+  }
+}
 .site-counter-item-number {
   color: var(--cfam-white);
   font-size: 60px;
@@ -453,6 +458,13 @@ textarea.form-control {
   .site-project-item-content, .site-blog-post-content {
     padding: 30px;
     padding-bottom: 75px;
+  }
+}
+@media (max-width: 359px) { /* Targeting screens narrower than 360px */
+  .site-project-item-content, .site-blog-post-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    /* padding-top and padding-bottom will inherit from the (max-width: 767px) rule or default */
   }
 }
 .site-project-item-content span, .site-blog-post-content span {
@@ -720,6 +732,7 @@ textarea.form-control {
 @media (max-width: 575px) {
   .site-blog-header h1 {
     font-size: 35px;
+    letter-spacing: 5px;
   }
 }
 .site-blog-header p {
@@ -1016,6 +1029,7 @@ textarea.form-control {
   }
 }
 
+/* For optimal responsiveness, ensure the parent flex container of .site-homologado-wrapper elements has 'flex-wrap: wrap;' applied, especially on smaller screens. */
 .site-homologado {
   background: #F7F9FF;
   padding: 120px 0 50px 0;
@@ -1066,7 +1080,7 @@ textarea.form-control {
 }
 @media (max-width: 991px) {
   .site-homologado-item img {
-    max-width: 40%;
+    max-width: 60%;
     padding: 0px;
   }
 }
@@ -1101,17 +1115,33 @@ textarea.form-control {
     transform: translate(-50%, -70%);
   }
 }
+@media (max-width: 319px) { /* Targeting screens narrower than 320px */
+  .site-team-member-image {
+    width: 150px;
+    height: 150px;
+  }
+}
 .site-team-member-content h3 {
   font-size: 32px;
   color: var(--cfam-black);
   margin-bottom: 10px;
   font-weight: 500;
 }
+@media (max-width: 767px) {
+  .site-team-member-content h3 {
+    font-size: 28px;
+  }
+}
 .site-team-member-content p {
   font-size: 24px;
   color: var(--cfam-black);
   margin-bottom: 20px;
   font-weight: 300;
+}
+@media (max-width: 767px) {
+  .site-team-member-content p {
+    font-size: 20px;
+  }
 }
 .site-team-member-social {
   margin: 0;
