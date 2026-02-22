@@ -14,7 +14,7 @@ order: 37
 
 A través de nuestra avanzada plataforma online, tendrás acceso ininterrumpido a todo el material formativo estructurado de ambas disciplinas para facilitar tu aprendizaje y asegurar tu aprobado. 
 
-Podrás acceder a una extensa batería de test actualizados, foros de dudas, temario completo e interactivo, y simulacros de examen reales que te permitirán medir tus conocimientos de legislación, control de explosivos y vigilancia.
+Podrás acceder a una extensa batería de test actualizados,temario completo e interactivo, y simulacros de examen reales que te permitirán medir tus conocimientos de legislación, control de explosivos y vigilancia.
 
 ❗️INFORMACIÓN IMPORTANTE❗️
 
