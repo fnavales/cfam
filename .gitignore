@@ -6,3 +6,4 @@ dist
 src/blog
 src/blog/*
 .cache
+.DS_Store
