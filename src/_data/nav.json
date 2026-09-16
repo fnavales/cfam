@@ -1,10 +1,59 @@
 {
-  "navLogo":"/assets/images/logo_optimized.svg",
-  "navLinks":[
-    {"route": "home", "name": "inicio"},
-    {"route": "about", "name": "sobre mí"},
-    {"route": "portfolio", "name": "cursos"}
+  "navLogo": "/assets/images/logo_optimized.svg",
+  "navLinks": [
+    {
+      "route": "home",
+      "name": "inicio"
+    },
+    {
+      "route": "courses",
+      "name": "formación",
+      "dropdown": [
+        {
+          "route": "courses/generales",
+          "name": "Generales",
+          "badge": "Semipresencial"
+        },
+        {
+          "route": "courses/especificos",
+          "name": "Específicos",
+          "badge": "Semipresencial"
+        },
+        {
+          "route": "courses/complementarios",
+          "name": "Complementarios",
+          "badge": "Online"
+        },
+        {
+          "route": "plataforma",
+          "name": "Plataforma de Repaso",
+          "badge": "Online"
+        }
+      ]
+    },
+    {
+      "route": "online",
+      "name": "destacados"
+    },
+    {
+      "route": "alumnos",
+      "name": "opiniones"
+    },
+    {
+      "route": "about",
+      "name": "sobre cfam"
+    },
+    {
+      "route": "contact",
+      "name": "contacto"
+    }
   ],
-  "navBtnLink":"",
-  "navBtnText":""
+  "socialLinks": {
+    "whatsapp": "https://wa.me/672458610",
+    "email": "mailto:cfamcentrodeformacion@gmail.com",
+    "instagram": "https://www.instagram.com/cfam.es/",
+    "facebook": "https://m.facebook.com/p/CFAM-Centro-de-formaci%C3%B3n-100065294469140/"
+  },
+  "navBtnLink": "",
+  "navBtnText": ""
 }

@@ -32,48 +32,153 @@
 
   <body>
   {% block navbar %}
-    <nav class="navbar navbar-expand-lg site-navigation nav-bg">
-      <div class="container">
-        <a class="navbar-brand" href="/">
-          <img src="{{nav.navLogo}}" alt="nav-logo" />
-        </a>
-        <button
-          class="navbar-toggler collapsed"
-          type="button"
-          data-toggle="collapse"
-          data-target="#sitenavbar"
-        >
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="sitenavbar">
-          <ul class="navbar-nav ml-auto main-nav">
-            {% for navLink in nav.navLinks %}
-            <li class="nav-item">
-              {% if navLink.route == "home" %}
-                <a class="nav-link" href="/">{{navLink.name | capitalize}}</a>
-              {% else %}
-                <a class="nav-link" href="/{{navLink.route}}">{{navLink.name | capitalize}}</a>
-              {% endif %} 
-            </li>
-            {% endfor %}
-            {% if nav.navBtnLink != "" %}
-                <li class="nav-item">
-                  <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="/{{nav.navBtnLink}}">
-                    <span class="btn-area">
-                      <span data-text="{{nav.navBtnText}}">
-                        {{nav.navBtnText}}
-                      </span>
-                    </span>
+    <header class="site-navigation starwars-navbar nav-bg" id="mainHeader">
+      <!-- Top Bar: Redes sociales (WhatsApp, Instagram, Facebook), logo CFAM grande al centro, Buscar a la derecha -->
+      <div class="starwars-topbar">
+        <div class="container-fluid starwars-container">
+          <div class="starwars-topbar-grid">
+            
+            <!-- Izquierda: Redes Sociales (WhatsApp, Email, Instagram, Facebook) -->
+            <div class="starwars-left">
+              <ul class="starwars-socials" aria-label="Redes Sociales y Contacto">
+                <li>
+                  <a href="{{nav.socialLinks.whatsapp or 'https://wa.me/672458610'}}" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="sw-social-link">
+                    <svg viewBox="0 0 24 24" class="sw-icon" fill="currentColor">
+                      <path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.04 14.69 2 12.04 2ZM12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.59 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19.01L7.55 18.83L4.44 19.65L5.27 16.61L5.07 16.29C4.24 14.97 3.81 13.47 3.81 11.91C3.81 7.37 7.5 3.67 12.05 3.67ZM8.53 7.33C8.37 7.33 8.1 7.39 7.87 7.64C7.65 7.89 7.02 8.48 7.02 9.69C7.02 10.9 7.9 12.06 8.02 12.23C8.15 12.39 9.74 14.85 12.18 15.91C14.21 16.79 14.62 16.62 15.07 16.57C15.52 16.53 16.51 15.98 16.71 15.42C16.92 14.86 16.92 14.38 16.85 14.28C16.79 14.18 16.63 14.12 16.39 14C16.14 13.88 14.91 13.27 14.68 13.19C14.45 13.11 14.29 13.07 14.13 13.31C13.96 13.56 13.49 14.12 13.35 14.28C13.21 14.44 13.07 14.46 12.82 14.34C12.58 14.22 11.79 13.96 10.86 13.13C10.13 12.48 9.63 11.68 9.49 11.44C9.35 11.19 9.47 11.06 9.6 10.93C9.71 10.82 9.85 10.64 9.97 10.5C10.09 10.36 10.13 10.26 10.21 10.1C10.29 9.93 10.25 9.79 10.19 9.67C10.13 9.55 9.64 8.35 9.43 7.86C9.23 7.37 9.03 7.44 8.87 7.43C8.72 7.42 8.53 7.33 8.53 7.33Z"/>
+                    </svg>
                   </a>
                 </li>
-            {% endif %}
-          </ul>
+                <li>
+                  <a href="{{nav.socialLinks.email or 'mailto:cfamcentrodeformacion@gmail.com'}}" aria-label="Correo electrónico" class="sw-social-link">
+                    <svg viewBox="0 0 24 24" class="sw-icon" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                      <polyline points="22,6 12,13 2,6"></polyline>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="{{nav.socialLinks.instagram or 'https://www.instagram.com/cfam.es/'}}" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="sw-social-link">
+                    <svg viewBox="0 0 24 24" class="sw-icon" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                      <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                      <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="{{nav.socialLinks.facebook or 'https://m.facebook.com/p/CFAM-Centro-de-formaci%C3%B3n-100065294469140/'}}" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="sw-social-link">
+                    <svg viewBox="0 0 24 24" class="sw-icon" fill="currentColor">
+                      <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.996 3.657 9.128 8.438 9.878v-6.987h-2.54V12.017h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12.017h2.773l-.443 2.89h-2.33v6.988C18.343 21.145 22 17.013 22 12.017 22 6.484 17.522 2 12 2z"/>
+                    </svg>
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Centro: Logo de CFAM (Dimensiones grandes de la imagen de referencia) -->
+            <div class="starwars-center">
+              <a class="starwars-brand" href="/" aria-label="CFAM Inicio">
+                <img src="{{nav.navLogo}}" alt="CFAM Logo" class="starwars-logo" />
+              </a>
+            </div>
+
+            <!-- Derecha: Buscar (+ Toggler móvil) -->
+            <div class="starwars-right">
+              <button type="button" class="sw-action-btn sw-search-trigger" id="swSearchBtn" aria-label="Buscar en la web">
+                <svg viewBox="0 0 24 24" class="sw-action-icon" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"></circle>
+                  <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <span class="sw-action-label">BUSCAR</span>
+              </button>
+
+              <!-- Botón hamburguesa para móvil -->
+              <button
+                class="navbar-toggler starwars-toggler collapsed d-lg-none"
+                type="button"
+                data-toggle="collapse"
+                data-target="#sitenavbar"
+                aria-controls="sitenavbar"
+                aria-expanded="false"
+                aria-label="Abrir menú"
+              >
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+
+          </div>
         </div>
       </div>
-    </nav>
+
+      <!-- Barra secundaria: Enlaces de navegación (estilo Star Wars) -->
+      <div class="starwars-subnav">
+        <div class="container">
+          <div class="collapse navbar-collapse justify-content-center" id="sitenavbar">
+            <!-- Buscador para versión móvil -->
+            <div class="mobile-search-box d-lg-none">
+              <input type="text" id="mobileSearchInput" placeholder="Buscar cursos..." class="mobile-search-control" />
+            </div>
+
+            <ul class="starwars-nav-links">
+              {% for navLink in nav.navLinks %}
+              <li class="starwars-nav-entry{% if navLink.dropdown %} has-dropdown{% endif %}">
+                {% if navLink.route == "home" %}
+                  <a class="starwars-link" href="/">{{navLink.name | upper}}</a>
+                {% else %}
+                  <a class="starwars-link" href="/{{navLink.route}}">{{navLink.name | upper}}{% if navLink.dropdown %}<svg class="dropdown-arrow" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>{% endif %}</a>
+                {% endif %}
+                {% if navLink.dropdown %}
+                <ul class="starwars-dropdown">
+                  {% for item in navLink.dropdown %}
+                  <li><a href="/{{item.route}}" class="starwars-dropdown-link">
+                    <span class="dropdown-item-name">{{item.name}}</span>
+                    {% if item.badge %}<span class="dropdown-item-badge">{{item.badge}}</span>{% endif %}
+                  </a></li>
+                  {% endfor %}
+                </ul>
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+
+            <!-- Sección inferior en menú móvil -->
+            <div class="mobile-menu-extra d-lg-none">
+              <div class="mobile-social-icons">
+                <a href="{{nav.socialLinks.whatsapp or 'https://wa.me/672458610'}}" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.04 14.69 2 12.04 2ZM12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.59 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19.01L7.55 18.83L4.44 19.65L5.27 16.61L5.07 16.29C4.24 14.97 3.81 13.47 3.81 11.91C3.81 7.37 7.5 3.67 12.05 3.67ZM8.53 7.33C8.37 7.33 8.1 7.39 7.87 7.64C7.65 7.89 7.02 8.48 7.02 9.69C7.02 10.9 7.9 12.06 8.02 12.23C8.15 12.39 9.74 14.85 12.18 15.91C14.21 16.79 14.62 16.62 15.07 16.57C15.52 16.53 16.51 15.98 16.71 15.42C16.92 14.86 16.92 14.38 16.85 14.28C16.79 14.18 16.63 14.12 16.39 14C16.14 13.88 14.91 13.27 14.68 13.19C14.45 13.11 14.29 13.07 14.13 13.31C13.96 13.56 13.49 14.12 13.35 14.28C13.21 14.44 13.07 14.46 12.82 14.34C12.58 14.22 11.79 13.96 10.86 13.13C10.13 12.48 9.63 11.68 9.49 11.44C9.35 11.19 9.47 11.06 9.6 10.93C9.71 10.82 9.85 10.64 9.97 10.5C10.09 10.36 10.13 10.26 10.21 10.1C10.29 9.93 10.25 9.79 10.19 9.67C10.13 9.55 9.64 8.35 9.43 7.86C9.23 7.37 9.03 7.44 8.87 7.43C8.72 7.42 8.53 7.33 8.53 7.33Z"/></svg></a>
+                <a href="{{nav.socialLinks.email or 'mailto:cfamcentrodeformacion@gmail.com'}}" aria-label="Correo electrónico"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a>
+                <a href="{{nav.socialLinks.instagram or 'https://www.instagram.com/cfam.es/'}}" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
+                <a href="{{nav.socialLinks.facebook or 'https://m.facebook.com/p/CFAM-Centro-de-formaci%C3%B3n-100065294469140/'}}" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.996 3.657 9.128 8.438 9.878v-6.987h-2.54V12.017h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12.017h2.773l-.443 2.89h-2.33v6.988C18.343 21.145 22 17.013 22 12.017 22 6.484 17.522 2 12 2z"/></svg></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Desplegable interactivo de búsqueda -->
+      <div class="starwars-search-dropdown" id="swSearchDropdown" style="display: none;">
+        <div class="container">
+          <div class="sw-search-inner">
+            <svg viewBox="0 0 24 24" class="sw-search-box-icon" fill="none" stroke="currentColor" stroke-width="2.2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="text" id="swSearchInput" class="sw-search-field" placeholder="Buscar cursos, especialidades o información (ej: vigilante, escolta, tiro, rural...)" autocomplete="off" />
+            <button type="button" class="sw-search-close-btn" id="swSearchClose" aria-label="Cerrar buscador">✕</button>
+          </div>
+          <div class="sw-search-quicklinks">
+            <span class="sw-quick-title">Cursos destacados:</span>
+            <a href="/portfolio/0-vigilante-seguridad/" class="sw-quick-tag">Vigilante de Seguridad</a>
+            <a href="/portfolio/1-escolta-privado/" class="sw-quick-tag">Escolta Privado</a>
+            <a href="/portfolio/5-guarda-rural/" class="sw-quick-tag">Guarda Rural</a>
+            <a href="/portfolio/2-vigilante-explosivos/" class="sw-quick-tag">Vigilante de Explosivos</a>
+            <a href="/portfolio/22-practicas-tiro-con-fuego-real/" class="sw-quick-tag">Prácticas de Tiro</a>
+            <a href="/portfolio/26-defensa-personal-femenina/" class="sw-quick-tag">Defensa Personal</a>
+          </div>
+        </div>
+      </div>
+    </header>
   {% endblock %}
 
   {% block content %}

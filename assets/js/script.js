@@ -24,13 +24,53 @@ $(document).ready(function() {
     $('.site-testimonial-item').removeClass('active');
   });
 
+  // Star Wars Navbar Search Toggle
+  $('#swSearchBtn').on('click', function(e) {
+    e.preventDefault();
+    $('#swSearchDropdown').slideToggle(200, function() {
+      if ($(this).is(':visible')) {
+        $('#swSearchInput').focus();
+      }
+    });
+  });
+
+  $('#swSearchClose').on('click', function() {
+    $('#swSearchDropdown').slideUp(200);
+  });
+
+  // Handle Enter on Search
+  $('#swSearchInput, #mobileSearchInput').on('keypress', function(e) {
+    if (e.which === 13) {
+      var query = $(this).val().trim();
+      if (query.length > 0) {
+        window.location.href = '/portfolio?search=' + encodeURIComponent(query);
+      }
+    }
+  });
+
+  // Close search on Esc key
+  $(document).on('keydown', function(e) {
+    if (e.key === 'Escape') {
+      $('#swSearchDropdown').slideUp(200);
+    }
+  });
+
+  // Highlight active nav link
+  var currentPath = window.location.pathname;
+  $('.starwars-link').each(function() {
+    var href = $(this).attr('href');
+    if (href === currentPath || (href !== '/' && currentPath.indexOf(href) === 0)) {
+      $(this).addClass('active');
+    }
+  });
+
 });
 
 $(window).on('scroll', function () {
   var windscroll = $(window).scrollTop();
-  if (windscroll >= 100) {
-    $('.site-navigation').addClass('nav-bg');
+  if (windscroll >= 50) {
+    $('.site-navigation').addClass('nav-scrolled');
   } else {
-    $('.site-navigation').removeClass('nav-bg');
+    $('.site-navigation').removeClass('nav-scrolled');
   }
 });
